@@ -15,3 +15,8 @@ Dia3
     Visualización de datos mediante gráficos con Python
   Andrea - Predecir el valor de Bitcoin
     Realizar una predicción del valor del oro
+Dia4
+  Andrea_SpaceX_1_Data_Collection_Api_v2.ipynb 
+    Obtener datos para predecir si un Falcon 9 aterrizará con éxito o no
+  Andrea_SpaceX_3_EDA_Using_SQL.ipynb 
+    RealizaR un análisis de datos utilizando SQL
