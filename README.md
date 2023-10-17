@@ -1,4 +1,4 @@
-# curso-python
+# 💻 curso-python 🐍
 ## _Ejercicios prácticos del módulo Data Fundamentals_
 
 ## Dia1
