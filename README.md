@@ -19,3 +19,8 @@
 ## 📌Día 6
 
 ## 📌Día 7
+
+## 📌Día 8
+- Andrea_M6 - 05 - SparkSession Teoría.ipynb 👉 _Experimentando por primera vez con un contexto de Spark_
+- Andrea_M6 - 06 - Primer RDD Teoría.ipynb 👉 _Creación de un contexto para aprender sobre RDDs_
+- Andrea_M6 - 07 - Transformaciones y Acciones sobre RDDs.ipynb 👉 _ Ejercicios con RDDs + Programación Funcional_
