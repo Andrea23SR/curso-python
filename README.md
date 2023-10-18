@@ -19,8 +19,10 @@
 ## 📌Día 6
 
 ## 📌Día 7
+- Andrea_M6_03_Programación_Funcional.ipynb 👉 _Aprender a usar las funciones lambda, map, filter y reduce._
+- Andrea_M6_SPACEX2_5_Interactive_Visual_Analytics_con_Folium.ipynb 👉 _Análisis de las ubicaciones de los sitios de lanzamiento de SpaceX con Folium._
 
 ## 📌Día 8
-- Andrea_M6 - 05 - SparkSession Teoría.ipynb 👉 _Experimentando por primera vez con un contexto de Spark_
-- Andrea_M6 - 06 - Primer RDD Teoría.ipynb 👉 _Creación de un contexto para aprender sobre RDDs_
-- Andrea_M6 - 07 - Transformaciones y Acciones sobre RDDs.ipynb 👉 _Ejercicios con RDDs + Programación Funcional_
+- Andrea_M6 - 05 - SparkSession Teoría.ipynb 👉 _Experimentando por primera vez con un contexto de Spark._
+- Andrea_M6 - 06 - Primer RDD Teoría.ipynb 👉 _Creación de un contexto para aprender sobre RDDs._
+- Andrea_M6 - 07 - Transformaciones y Acciones sobre RDDs.ipynb 👉 _Ejercicios con RDDs + Programación Funcional._
