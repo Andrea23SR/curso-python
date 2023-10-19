@@ -21,6 +21,7 @@
 
 ## 📌Día 5
 - Andrea_M5 - SPACEX2 - 6 - Machine Learning Predicciones.ipynb 👉 _Realizar una predicción mediante aprendizaje automático._
+- M5 - 11 - Plotly - Solución.ipynb 👉 _Aprendiendo a utilizar Plotly GO, Plotly Express y Plotly Dash._
 - Modulo3.pdf 👉 _Apuntes personales del módulo Data Fundamentals._
 - Andrea_Repaso Teoría - Curso Hackea Tu Futuro.docx.pdf 👉 _Repaso teórico de conceptos básicos de Python._
 
