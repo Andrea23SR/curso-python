@@ -11,7 +11,7 @@
 - Andrea_Pandas_Python.ipynb 👉 _Explorando la librería pandas para comprender su aplicación._
 
 ## 📌Día 3
-- Andrea_M5 - 09 - Folium.ipynbGeneración de mapas con Python 👉 _Generar mapas mediante Python._
+- Andrea_M5 - 09 - Folium.ipynb 👉 _Generar mapas mediante Python._
 - Andrea_SpaceX - 4 - EDA with Data Visualization.ipynb 👉 _Visualización de datos mediante gráficos con Python._
 - Andrea - Predecir el valor de Bitcoin 👉 _Realizar una predicción del valor del oro._
 
@@ -20,6 +20,7 @@
 - Andrea_SpaceX_3_EDA_Using_SQL.ipynb 👉 _Realizar un análisis de datos utilizando SQL._
 
 ## 📌Día 5
+- Andrea_M5 - SPACEX2 - 6 - Machine Learning Predicciones.ipynb 👉 _Realizar una predicción mediante aprendizaje automático._
 - Modulo3.pdf 👉 _Apuntes personales del módulo Data Fundamentals._
 - Andrea_Repaso Teoría - Curso Hackea Tu Futuro.docx.pdf 👉 _Repaso teórico de conceptos básicos de Python._
 
