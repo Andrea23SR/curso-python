@@ -7,7 +7,7 @@
 - Andrea_Sanchez_Rojas3.ypinb 👉 _Ejercicios de condicionales: operadores de comparación._
 
 ## 📌Día 2
--Andrea_Sanchez_Rojas4.ipynb 👉 _Ejercicios prácticos para aprender a utilizar bucles (while y for)._
+- Andrea_Sanchez_Rojas4.ipynb 👉 _Ejercicios prácticos para aprender a utilizar bucles (while y for)._
 - Andrea_Pandas_Python.ipynb 👉 _Explorando la librería pandas para comprender su aplicación._
 
 ## 📌Día3
