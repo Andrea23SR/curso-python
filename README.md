@@ -5,11 +5,16 @@
 - Andrea_Sanchez_Rojas1.ypinb 👉 _Primeros pasos básicos para comprender código Python._
 - Andrea_Sanchrez_Rojas2.ypinb 👉 _Ejercicios para poner en práctica variables y tipos, listas, operadores, formato de cadena (string), condiciones, bucles, funciones, diccionarios, módulos y paquetes._
 - Andrea_Sanchez_Rojas3.ypinb 👉 _Ejercicios de condicionales: operadores de comparación._
+
 ## 📌Día 2
+-Andrea_Sanchez_Rojas4.ipynb 👉 _Ejercicios prácticos para aprender a utilizar bucles (while y for)._
+- Andrea_Pandas_Python.ipynb 👉 _Explorando la librería pandas para comprender su aplicación._
+
 ## 📌Día3
 - Andrea_M5 - 09 - Folium.ipynbGeneración de mapas con Python 👉 _Generar mapas mediante Python._
 - Andrea_SpaceX - 4 - EDA with Data Visualization.ipynb 👉 _Visualización de datos mediante gráficos con Python._
 - Andrea - Predecir el valor de Bitcoin 👉 _Realizar una predicción del valor del oro._
+
 ## 📌Dia4
 - Andrea_SpaceX_1_Data_Collection_Api_v2.ipynb 👉 _Obtener datos para predecir si un Falcon 9 aterrizará con éxito o no._
 - Andrea_SpaceX_3_EDA_Using_SQL.ipynb 👉 _Realizar un análisis de datos utilizando SQL._
