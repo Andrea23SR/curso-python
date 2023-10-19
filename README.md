@@ -20,6 +20,8 @@
 - Andrea_SpaceX_3_EDA_Using_SQL.ipynb 👉 _Realizar un análisis de datos utilizando SQL._
 
 ## 📌Día 5
+- Modulo3.pdf 👉 _Apuntes personales del módulo Data Fundamentals._
+- Andrea_Repaso Teoría - Curso Hackea Tu Futuro.docx.pdf 👉 _Repaso teórico de conceptos básicos de Python._
 
 ## 📌Día 6
 - Andrea__M6_01_Funciones.ipynb 👉 _Ejercicios prácticos para aprender a defirnir funciones._
