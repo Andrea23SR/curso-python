@@ -23,6 +23,8 @@
 - Modulo3.pdf 👉 _Apuntes personales del módulo Data Fundamentals._
 - Andrea_Repaso Teoría - Curso Hackea Tu Futuro.docx.pdf 👉 _Repaso teórico de conceptos básicos de Python._
 
+## _Ejercicios prácticos del módulo Arquitecturas Cloud & Big Data_
+
 ## 📌Día 6
 - Andrea__M6_01_Funciones.ipynb 👉 _Ejercicios prácticos para aprender a defirnir funciones._
 - Andrea_Copy_of_M6_02_Clases.ipynb 👉 _Ejercicios prácticos para aprender a definir clases._
