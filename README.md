@@ -17,6 +17,8 @@
 ## 📌Día 5
 
 ## 📌Día 6
+- Andrea__M6_01_Funciones.ipynb 👉 _Ejercicios prácticos para aprender a defirnir funciones._
+- Andrea_Copy_of_M6_02_Clases.ipynb 👉 _Ejercicios prácticos para aprender a definir clases._
 
 ## 📌Día 7
 - Andrea_M6_03_Programación_Funcional.ipynb 👉 _Aprender a usar las funciones lambda, map, filter y reduce._
